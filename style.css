@@ -1,0 +1,15 @@
+.oi{width:600px ;
+    height: 300px;
+    text-decoration: none;
+
+}
+.ola{
+    text-decoration: none;
+    padding: 6px;
+    
+}
+.ola:hover{
+    background-color: aquamarine;
+    color: black;
+    border-radius: 3px solid black;
+}
